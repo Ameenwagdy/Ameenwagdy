@@ -44,8 +44,8 @@ Applied SQL queries and calculations to analyze student results, percentages, an
 
 ## 🤝 Connect With Me
 
-- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/ameen-wagdy-b1294722b)
-- Email: ameenwagdy1@gmail.com
+- LinkedIn: (www.linkedin.com/in/ameen-wagdy-b1294722b)
+- LinkedIn: [Ameen Wagdy](https://www.linkedin.com/in/ameen-wagdy-b1294722b/)
 
 ---
 *Turning data into insights and ideas into practical solutions.*
